@@ -304,8 +304,8 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
-  width: 95%;
+.skills__csharp {
+  width: 85%;
 }
 
 .skills__css {
